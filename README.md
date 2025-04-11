@@ -46,7 +46,7 @@ Redraws a previously compressed image to its original resolution.
 
 ---
 
-## 🛑 Limitations
+## Limitations
 
 - Only works with data URIs (base64-encoded images)
 - Compression is always in **JPEG** format
@@ -57,6 +57,6 @@ Redraws a previously compressed image to its original resolution.
 
 ---
 
-## 🙋 Support & Contributions
+## Support & Contributions
 
 Feel free to open issues or submit pull requests if you have ideas, bug fixes, or improvements!
