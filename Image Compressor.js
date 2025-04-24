@@ -1,6 +1,6 @@
-#Name - Image Compressor
-#Author - Maxolain2010
-#Version - 1.0
+//#Name - Image Compressor
+//#Author - Maxolain2010
+//#Version - 1.0
 
 class ImageCompressor {
   getInfo() {
